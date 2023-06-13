@@ -1,0 +1,21 @@
+.todos{
+    margin-top:20px;
+}
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: canter;
+    margin-bottom:10px;
+}
+.todo-left{
+    display:flex;
+    gap:10px;
+}
+.todo-detail-title{
+    font-size:20px;
+    font-weight:500;
+}
+.todo-detail-desc{
+    font-size:14px;
+    color:#666;
+}
